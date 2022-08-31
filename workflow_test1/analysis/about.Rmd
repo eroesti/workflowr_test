@@ -7,4 +7,4 @@ editor_options:
   chunk_output_type: console
 ---
 
-Describe your project.
+This folder will contain the reports in a .Rmd format. The reports (html and generated figures from each chunks) will be in the docs folder. To do not rename any of these to folders.
